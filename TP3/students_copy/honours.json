@@ -1,0 +1,29 @@
+[
+  {
+    "id":102,
+    "name":"Sophea",
+    "gender":"F",
+    "major":"DS",
+    "age":21,
+    "gpa":3.92,
+    "city":"Siem Reap"
+  },
+  {
+    "id":104,
+    "name":"Malis",
+    "gender":"F",
+    "major":"Math",
+    "age":22,
+    "gpa":3.78,
+    "city":"Battambang"
+  },
+  {
+    "id":108,
+    "name":"Rith",
+    "gender":"M",
+    "major":"Math",
+    "age":19,
+    "gpa":3.95,
+    "city":"Battambang"
+  }
+]
